@@ -1,0 +1,20 @@
+27Mar2026
+
+Software from mercurial repository changeset 14
+from 
+
+Matlab software.
+
+simulate_c_information_measurement.m is main program used to program to simulate
+bit error rate following method used by
+Stenner, Gauthier, and Neifeld letters to nature, vol 425, p. 695-8, 2003,
+but applied to an acoustic example.
+
+
+Just use the dotest=1  parameters within 
+simulate_c_information_measurement.m  to get results.
+
+
+
+
+
